@@ -1,0 +1,13 @@
+.class
+.DS_Store
+.settings
+.classpath
+.project
+.idea
+target
+**/*.iml
+**/.evosuite/*
+**/.mvn/**
+**/mvnw/**
+**/mvnw
+**/mvnw.cmd
